@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DLGAndroidTest</string>
+    <string name="greenFlag_text"> GreenFlag customers can
+                                   create an account to access</string>
+    <string name="accs1">Car health updates</string>
+    <string name="accs2">Request a rescue online</string>
+    <string name="accs3">Policy information</string>
+    <string name="crtAccount">Create an account</string>
+    <string name="Password_criteria">Your password should have a minimum of 8
+    characters and contains at leeast one number and one lower case letter.
+        You can also use special characters</string>
+
+</resources>
